@@ -8,6 +8,8 @@ Go to `#🚨）discussion-devs` in the community server below:
 
 # Contributors:
 ## Developers:
-* Markut (Juan Pablo) (Current project leader).
+* J.P. Mendoza (Juan Pablo) (Current project leader).
+* Weeglemar
+* Andre Argandoña
 ## Asset contributors:
 * Markut
