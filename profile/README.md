@@ -7,4 +7,4 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * Weeglemar
 * Andre Argandoña
 ## Contribuyentes de Assets:
-* Markut
+* J.P. Mendoza
