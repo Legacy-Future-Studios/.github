@@ -7,3 +7,5 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * Weeglemar
 * Andre Argandoña
 * ElDuendePa
+* Uriel Gomez
+* kiuno01
