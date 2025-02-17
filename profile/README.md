@@ -22,6 +22,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * HeadLightsDc
 * Esteban Vallejos
 * webresident
+* Titor-73
 
 ## Contribuir 🖥️
 
