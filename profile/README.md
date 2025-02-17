@@ -7,7 +7,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * Weeglemar
 * Andre Argandoña
 * ElDuendePa
-* Uriel Gomez
+* Uriel Gomez, retired.
 * kiuno01, retired.
 * Alex Zapata
 * martolo80dev, retired.
