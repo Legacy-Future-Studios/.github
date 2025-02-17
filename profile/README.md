@@ -21,6 +21,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * cheilyn16
 * HeadLightsDc
 * Esteban Vallejos
+* webresident
 
 ## Contribuir 🖥️
 
@@ -38,4 +39,4 @@ Si deseas contribuir a los Proyectos futuros del Studios, [Enviar E-mail 📧](m
 
 ---
 
-**Última actualización del Documento:** 15/02/2025
+**Última actualización del Documento:** 16/02/2025
