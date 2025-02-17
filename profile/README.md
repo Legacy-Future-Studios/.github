@@ -10,7 +10,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * Uriel Gomez
 * kiuno01, retired.
 * Alex Zapata
-* martolo80dev
+* martolo80dev, retired.
 * luicosta2009
 * Gybram Llamas
 * TercuX
