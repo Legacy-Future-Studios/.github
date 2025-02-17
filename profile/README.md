@@ -24,6 +24,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * webresident
 * Titor-73
 * Jsebas105
+* janselroa
 
 ## Contribuir 🖥️
 
