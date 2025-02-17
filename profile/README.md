@@ -26,6 +26,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * Jsebas105
 * janselroa
 * MatrixHacker2
+* F1nndegamer
 
 ## Contribuir 🖥️
 
