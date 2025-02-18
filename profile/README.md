@@ -1,50 +1,20 @@
-# Descripción General
-Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando nostalgia e innovación para los jugadores.
 
-# Colaboradores 👤
-## Desarrolladores:
-* markut-dev (J.P. Mendoza) (Director actual del proyecto).
-* Weeglemar
-* Andre Argandoña
-* ElDuendePa
-* Uriel Gomez, retired.
-* kiuno01, retired.
-* Alex Zapata
-* martolo80dev, retired.
-* luicosta2009
-* Gybram Llamas
-* TercuX
-* ManOfGoldForever
-* HatorrCR
-* Edgajuman
-* NahumLopz
-* cheilyn16
-* HeadLightsDc
-* Esteban Vallejos
-* webresident
-* Titor-73
-* Jsebas105
-* janselroa
-* MatrixHacker2
-* F1nndegamer
-* ELNARMOTON79
-* LolBenja, retired.
-* karlooz
+👾 ¡Bienvenido a Legacy Future Studios, un estudio que transforma, crece y comparte logros contigo
+Revivimos clásicos y creamos nuevas experiencias, fusionando nostalgia e innovación para los jugadores!
 
-## Contribuir 🖥️
+# Misión 🎯
+Nuestra misión es desarrollar proyectos creativos, explorar y revivir los juegos nostálgicos,
+Trabajamos con herramientas como Unity, Unreal Engine, GameMaker y Godot, siempre creyendo en la opinión de los jugadores.
 
+# Contribuir 🖥️
 Si deseas contribuir a los Proyectos futuros del Studios, [Enviar E-mail 📧](mailto:email@example.com).
 
-### Pre-requisitos
+### Pre-requisitos ✅
 
 - Experiencia en el desarrollo de aplicaciones con Unity.
-- Nivel Intermedio en C#.
-- Reverse Engineering.
-- JavaScript.
-- Conocimiento en estructuras de Bases de Datos MySQL.
-- Google Database Firebase.
-- Conocimiento básico de GitHub.
+- Dominio de estructuras de bases de datos Google FireBase.
+- Manejo básico de GitHub.
 
 ---
 
-**Última actualización del Documento:** 16/02/2025
+**Última actualización del Documento:** 18/02/2025
