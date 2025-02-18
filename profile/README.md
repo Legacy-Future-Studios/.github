@@ -29,6 +29,7 @@ Legacy Future Studios revive clásicos y crea nuevas experiencias, combinando no
 * F1nndegamer
 * ELNARMOTON79
 * LolBenja, retired.
+* karlooz
 
 ## Contribuir 🖥️
 
