@@ -12,9 +12,9 @@ Si deseas contribuir a los Proyectos futuros del Studios, [Enviar E-mail 📧](m
 ### Pre-requisitos ✅
 
 - Experiencia en el desarrollo de aplicaciones con Unity.
-- Dominio de estructuras de bases de datos Google FireBase.
+- Dominio de Estructuras de bases de datos.
 - Manejo básico de GitHub.
 
 ---
 
-**Última actualización del Documento:** 18/02/2025
+**Última actualización del Documento:** 26/02/2025
